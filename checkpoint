@@ -1,0 +1,2 @@
+model_checkpoint_path: "test_cifar_prog_1acc0.2483"
+all_model_checkpoint_paths: "test_cifar_prog_1acc0.2483"
