@@ -1,0 +1,91 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[Mitchell(1997)]{Mitchell97}
+MITCHELL~T~M.
+\newblock Machine learning\allowbreak[M].
+\newblock New York: McGraw-Hill, 1997.
+
+\bibitem[周(2016)]{周16}
+机器学习\allowbreak[M/OL].
+\newblock 清华大学出版社, 2016.
+\newblock \url{https://books.google.com.hk/books?id=j0G8nQAACAAJ}.
+
+\bibitem[Raschka(2015)]{raschka15}
+RASCHKA~S.
+\newblock Python machine learning\allowbreak[M].
+\newblock [S.l.]: Packt Publishing Ltd, 2015.
+
+\bibitem[Hornik et~al.(1989)Hornik, Stinchcombe, and White]{hornik89}
+HORNIK~K, STINCHCOMBE~M, WHITE~H.
+\newblock Multilayer feedforward networks are universal
+  approximators\allowbreak[J].
+\newblock Neural networks, 1989, 2\penalty0 (5):\penalty0 359-366.
+
+\bibitem[Khan et~al.(2018)Khan, Rahmani, and Shah]{khan18}
+KHAN~S, RAHMANI~H, SHAH~S~A~A.
+\newblock A guide to convolutional neural networks for computer
+  vision\allowbreak[M].
+\newblock [S.l.]: Morgan \& Claypool Publishers, 2018.
+
+\bibitem[LeCun et~al.(1998)LeCun, Bottou, Bengio, Haffner, et~al.]{lecun98}
+LECUN~Y, BOTTOU~L, BENGIO~Y, et~al.
+\newblock Gradient-based learning applied to document
+  recognition\allowbreak[J].
+\newblock Proceedings of the IEEE, 1998, 86\penalty0 (11):\penalty0 2278-2324.
+
+\bibitem[Krizhevsky et~al.(2012)Krizhevsky, Sutskever, and
+  Hinton]{krizhevsky12}
+KRIZHEVSKY~A, SUTSKEVER~I, HINTON~G~E.
+\newblock Imagenet classification with deep convolutional neural
+  networks\allowbreak[C]//\allowbreak
+Advances in neural information processing systems.
+\newblock [S.l.: s.n.], 2012: 1097-1105.
+
+\bibitem[Simonyan et~al.(2014)Simonyan and Zisserman]{simonyan14}
+SIMONYAN~K, ZISSERMAN~A.
+\newblock Very deep convolutional networks for large-scale image
+  recognition\allowbreak[J].
+\newblock arXiv preprint arXiv:1409.1556, 2014.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{he16}
+HE~K, ZHANG~X, REN~S, et~al.
+\newblock Deep residual learning for image
+  recognition\allowbreak[C]//\allowbreak
+Proceedings of the IEEE conference on computer vision and pattern recognition.
+\newblock [S.l.: s.n.], 2016: 770-778.
+
+\bibitem[Szegedy et~al.(2015)Szegedy, Liu, Jia, Sermanet, Reed, Anguelov,
+  Erhan, Vanhoucke, and Rabinovich]{szegedy15}
+SZEGEDY~C, LIU~W, JIA~Y, et~al.
+\newblock Going deeper with convolutions\allowbreak[C]//\allowbreak
+Proceedings of the IEEE conference on computer vision and pattern recognition.
+\newblock [S.l.: s.n.], 2015: 1-9.
+
+\bibitem[Yan et~al.(2015)Yan, Zhang, Piramuthu, Jagadeesh, DeCoste, Di, and
+  Yu]{yan15}
+YAN~Z, ZHANG~H, PIRAMUTHU~R, et~al.
+\newblock Hd-cnn: hierarchical deep convolutional neural networks for large
+  scale visual recognition\allowbreak[C]//\allowbreak
+Proceedings of the IEEE international conference on computer vision.
+\newblock [S.l.: s.n.], 2015: 2740-2748.
+
+\bibitem[Chen(2018)]{chen18}
+CHEN~S.
+\newblock K-nearest neighbor algorithm optimization in text
+  categorization\allowbreak[C]//\allowbreak
+IOP Conference Series: Earth and Environmental Science: volume 108.
+\newblock [S.l.]: IOP Publishing, 2018: 052074.
+
+\bibitem[Li et~al.(2003)Li, Yu, and Lu]{li03}
+LI~B, YU~S, LU~Q.
+\newblock An improved k-nearest neighbor algorithm for text
+  categorization\allowbreak[J].
+\newblock arXiv preprint cs/0306099, 2003.
+
+\end{thebibliography}

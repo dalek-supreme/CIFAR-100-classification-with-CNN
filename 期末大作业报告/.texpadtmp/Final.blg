@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/howardying/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/7e3da01dc75049a7eae6c4a22c7c496f/Message/MessageTemp/0ba2ddf39711e2772b6a83fe23648124/File/期末大作业/期末大作业/.texpadtmp/Final.aux
+The style file: gbt7714-unsrt.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ../wpref.bib
+Warning--empty author and editor in 周16
+You've used 13 entries,
+            4075 wiz_defined-function locations,
+            931 strings with 8770 characters,
+and the built_in function-call counts, 69141 in all, are:
+= -- 1160
+> -- 8159
+< -- 10270
++ -- 2824
+- -- 429
+* -- 436
+:= -- 9635
+add.period$ -- 39
+call.type$ -- 13
+change.case$ -- 54
+chr.to.int$ -- 2548
+cite$ -- 15
+duplicate$ -- 291
+empty$ -- 747
+format.name$ -- 199
+if$ -- 17801
+int.to.chr$ -- 1
+int.to.str$ -- 14
+missing$ -- 0
+newline$ -- 79
+num.names$ -- 36
+pop$ -- 3814
+preamble$ -- 1
+purify$ -- 13
+quote$ -- 0
+skip$ -- 6715
+stack$ -- 0
+substring$ -- 3178
+swap$ -- 36
+text.length$ -- 135
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 135
+warning$ -- 1
+while$ -- 170
+width$ -- 0
+write$ -- 193
+(There was 1 warning)
